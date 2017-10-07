@@ -1,4 +1,4 @@
-
+package datastructures;
 public class TrieImpl {
 	public static TrieNode root = null;
 	public static int index=0;
